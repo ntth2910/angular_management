@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "email": "conbocuoi@mail.com",
+      "password": "$2a$10$buSjz6KfP3lwLji/BI2Ox.ls93mtzaHGo6V32aL/Tn.6O47af6WZS",
+      "fullname": "conbocuoihahaha",
+      "isAdmin": true,
+      "id": "T2nSmbT"
+    },
+    {
+      "email": "nguyenthib@gmail.com",
+      "password": "$2a$10$.kpLAAotJ59zjhfHwTiWqeqtJ9/5ID0yQe5W9UVZ1HMExwLXiGjYK",
+      "fullname": "nguyen thi b",
+      "isAdmin": true,
+      "id": "8_aElRx"
+    },
+    {
+      "email": "nguyenthib@gmail.com",
+      "password": "$2a$10$mr3W/pZjNQBBrSm5HMWtNehMwB2jRgOWQsbMXwsQgltCUUcQH5cYG",
+      "fullname": "nguyen thi b",
+      "isAdmin": true,
+      "id": "w7bz8LM"
+    },
+    {
+      "email": "nguyenthic@gmail.com",
+      "password": "$2a$10$V.CAH1mul1DQMl1UKKKsuOwbSq4jXu/yLoslcFMWN/efdQWZUi11C",
+      "fullname": "nguyen thi c",
+      "isAdmin": true,
+      "id": "SMlY7R4"
+    },
+    {
+      "email": "tranvana@gmail.com",
+      "password": "$2a$10$Q05Ayfvuy5qMTNBG25/.BuGo0c1wfMdzz/nx0nAqdrRlDG45G/TGq",
+      "fullname": "tran van a",
+      "isAdmin": true,
+      "id": "mcaJEsY"
+    },
+    {
+      "email": "thuha@gmail.com",
+      "password": "$2a$10$4IDc9rtP3rInxJwpgbxIveGQ6VtE0z8Kv55sDbcOWTXG4hf0UTRJ6",
+      "fullname": "Nguyễn Trần Thu Hà",
+      "isAdmin": true,
+      "id": "mOGyXKU"
+    },
+    {
+      "email": "thuha@gmail.com",
+      "password": "$2a$10$dGm0w1jtH5rGtQ7npZx0.Ofhrlh9U5XPR5VobPU019qgFemLSIZU2",
+      "fullname": "Nguyễn Trần Thu Hà",
+      "isAdmin": true,
+      "id": "thCL7bm"
+    }
+  ]
+}
